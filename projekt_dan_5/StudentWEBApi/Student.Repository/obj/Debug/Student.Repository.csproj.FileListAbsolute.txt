@@ -1,0 +1,9 @@
+C:\Users\Moj STROJ\source\repos\StudentWEBApi\Student.Repository\bin\Debug\Student.Repository.dll
+C:\Users\Moj STROJ\source\repos\StudentWEBApi\Student.Repository\bin\Debug\Student.Repository.pdb
+C:\Users\Moj STROJ\source\repos\StudentWEBApi\Student.Repository\bin\Debug\Student.Model.dll
+C:\Users\Moj STROJ\source\repos\StudentWEBApi\Student.Repository\bin\Debug\Student.Model.pdb
+C:\Users\Moj STROJ\source\repos\StudentWEBApi\Student.Repository\obj\Debug\Student.Repository.csproj.AssemblyReference.cache
+C:\Users\Moj STROJ\source\repos\StudentWEBApi\Student.Repository\obj\Debug\Student.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Moj STROJ\source\repos\StudentWEBApi\Student.Repository\obj\Debug\Student.Repository.csproj.CopyComplete
+C:\Users\Moj STROJ\source\repos\StudentWEBApi\Student.Repository\obj\Debug\Student.Repository.dll
+C:\Users\Moj STROJ\source\repos\StudentWEBApi\Student.Repository\obj\Debug\Student.Repository.pdb
