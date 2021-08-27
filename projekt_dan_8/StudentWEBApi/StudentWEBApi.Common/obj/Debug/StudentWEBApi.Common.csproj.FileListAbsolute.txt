@@ -1,0 +1,6 @@
+C:\Users\Moj STROJ\Desktop\projekt_dan_3\projekt_dan_7\StudentWEBApi\StudentWEBApi.Common\bin\Debug\StudentWEBApi.Common.dll
+C:\Users\Moj STROJ\Desktop\projekt_dan_3\projekt_dan_7\StudentWEBApi\StudentWEBApi.Common\bin\Debug\StudentWEBApi.Common.pdb
+C:\Users\Moj STROJ\Desktop\projekt_dan_3\projekt_dan_7\StudentWEBApi\StudentWEBApi.Common\obj\Debug\StudentWEBApi.Common.csproj.AssemblyReference.cache
+C:\Users\Moj STROJ\Desktop\projekt_dan_3\projekt_dan_7\StudentWEBApi\StudentWEBApi.Common\obj\Debug\StudentWEBApi.Common.csproj.CoreCompileInputs.cache
+C:\Users\Moj STROJ\Desktop\projekt_dan_3\projekt_dan_7\StudentWEBApi\StudentWEBApi.Common\obj\Debug\StudentWEBApi.Common.dll
+C:\Users\Moj STROJ\Desktop\projekt_dan_3\projekt_dan_7\StudentWEBApi\StudentWEBApi.Common\obj\Debug\StudentWEBApi.Common.pdb
